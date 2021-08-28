@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198426599668",
+    "firebase_url": "https://allergy-app-c034e.firebaseio.com",
+    "project_id": "allergy-app-c034e",
+    "storage_bucket": "allergy-app-c034e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198426599668:android:25ec5e8a25ba8f524a7ea1",
+        "android_client_info": {
+          "package_name": "com.example.allergyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198426599668-h7lf4lt37emiunmk3vtb6vama4cv5d11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh65RwvTEEvWCTQrIk4IFcuLP89RPnyDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198426599668-h7lf4lt37emiunmk3vtb6vama4cv5d11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
